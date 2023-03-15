@@ -82,7 +82,7 @@ body{
     z-index: 1;
 }
 
-@media (min-width: 375px){
+@media (min-width: 576px){
     .main-cont{
         display: flex;
         max-width: 950px;
